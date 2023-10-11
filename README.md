@@ -1,6 +1,6 @@
 # Chinese-solution-to-obsidian-kindle-plugin
 
-##前情提要  
+##前情提要   
 
 [Obsidian](https://obsidian.md/)是一款非常有意思的笔记软件，可以结合多种插件管理笔记。  
 [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin)是一款Obsidian的插件，可以将Kindle中的书摘导入到Obsidian中，方便使用Obsidian管理并形成可视化知识图谱。  
